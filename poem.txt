@@ -1,8 +1,6 @@
 Purple
 Pink
 Orange
-Blue
-Red
 Grey
 Beige
 Ivory
