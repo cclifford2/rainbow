@@ -4,3 +4,4 @@ Orange
 Blue
 Red
 Grey
+Beige
